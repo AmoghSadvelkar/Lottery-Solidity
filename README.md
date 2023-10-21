@@ -1,7 +1,7 @@
 # Lottery-Solidity
 Decentralized lottery system on Ethereum blockchain. Transparent, fair, and user-friendly. Participants enter, manager picks winner using smart contracts, and the winner takes all. Revolutionizing lotteries with blockchain technology.
 
-**Slide 4: Technologies Used**
+** Technologies Used**
 
 1. **Ethereum Blockchain:**
    - Foundation of our system, providing security and transparency.
